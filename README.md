@@ -10,4 +10,4 @@
     cd ~/.dotfiles
 2. python bootstrap.py
 
-For more info see the [CHANGELOG.md](CHANGELOG.md).
+For more info see the [CHANGELOG.md](CHANGELOG.md)
